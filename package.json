@@ -1,0 +1,13 @@
+{
+  "name": "repro-ember-pre-and-post-3-27-compat",
+  "description": "monorepo root",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "private": true,
+  "volta": {
+    "node": "16.13.2",
+    "yarn": "1.22.17"
+  }
+}
