@@ -6,6 +6,9 @@
     "apps/*"
   ],
   "private": true,
+  "scripts": {
+    "start": "./start.sh"
+  },
   "volta": {
     "node": "16.13.2",
     "yarn": "1.22.17"
